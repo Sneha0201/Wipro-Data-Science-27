@@ -1,3 +1,5 @@
+#Cost to buils a server
+
 cost_per_hour = 0.51
 
 cost_per_day = cost_per_hour * 24
