@@ -1,3 +1,5 @@
+#Rides on miles
+
 distance = int(input("How far you have to travel in miles? :"))
 if distance < 3:
     print("I suggest ride a bicycle for your destination.")
